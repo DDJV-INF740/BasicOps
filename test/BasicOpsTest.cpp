@@ -1,7 +1,7 @@
 #include "gtest/gtest.h"
 
 #include "BasicOps.hpp"
-#include "ExtraOps_solutions.hpp"
+#include "ExtraOps.hpp"
 
 using namespace BasicOps;
 

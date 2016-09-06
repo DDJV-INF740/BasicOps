@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\libs\googletest\googletest\src\gtest.cc">
       <Filter>Source Files</Filter>
     </ClCompile>

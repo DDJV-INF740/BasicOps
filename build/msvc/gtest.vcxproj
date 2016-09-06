@@ -135,9 +135,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\libs\googletest\googletest\src\gtest-death-test.cc" />
     <ClCompile Include="..\..\libs\googletest\googletest\src\gtest-filepath.cc" />
     <ClCompile Include="..\..\libs\googletest\googletest\src\gtest-port.cc" />
