@@ -27,3 +27,12 @@
 *.exe
 *.out
 *.app
+*.opensdf
+*.sdf
+*.vcxproj.user
+.suo
+*.ilk
+*.log
+*.pdb
+**/Debug/*
+**/Release/*
