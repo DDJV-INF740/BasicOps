@@ -24,7 +24,7 @@ namespace BasicOps
 
 	static inline Bit EQ(Bit x, Bit y)
 	{
-		// HINT: XOR
+		// HINT: NOT XOR
 		return ZERO;
 	}
 
